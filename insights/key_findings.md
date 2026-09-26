@@ -50,7 +50,3 @@
 3. **Monitor delinquency (6.06%) by segment** — cross-reference with income group, card category, and state to find where risk concentrates.
 4. **Investigate channel mix** — confirm why Swipe outpaces Chip, and whether this reflects a real security/fraud exposure.
 5. **Leverage geographic concentration** (TX/NY/CA = 68% of revenue) for targeted retention and acquisition campaigns.
-
----
-
-*Note: Figures are drawn directly from the dashboard exports; minor discrepancies between "55.3M" (dashboard cards) and "57M" (summary insights slide) likely reflect different snapshot dates or rounding, and should be reconciled against the live data model before external reporting.*
